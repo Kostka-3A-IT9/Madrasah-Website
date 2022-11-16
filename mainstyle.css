@@ -1,0 +1,87 @@
+body {
+        font-family:cursive;
+	background-color:#0492C2;
+	padding-top:0px;
+	margin-top:0px;
+	}
+	
+b{
+ color: #00308F;
+ }
+
+h3{
+	background-color:#00308F;
+	padding:20px 25px;
+	color:white;
+	text-align: center;
+	width: 500px;
+	margin-left: 200px;
+	}
+
+
+
+h2{
+        background-color:clear;
+	padding:20px 25px;
+	color:black;
+	text-align: center;
+	width: 500px;
+	margin-left: 200px;
+	}
+       
+	
+
+h3#issue{
+	background-color:#00308F;
+	color: white;
+	padding:0 15px;
+	}
+p{
+	text-align:justify;
+	line-height:40px;
+        font-family: "Lucida Console", "Courier New", monospace;
+	}
+p#main{		
+	font-size:20px;	
+	}
+
+
+a{ 
+	color:black;
+	font-size:25px;
+	padding:10px 15px;
+	text-decoration:none;
+
+	}
+
+a:visited{ 
+		color:navy blue;
+		font-size:25px;
+		padding:10px 15px;
+		text-decoration:none;
+	}
+a:hover{ 
+		color: #0E3386;
+		font-weight:bolder;
+		text-decoration: none;
+		background-color: white;
+	}
+a#backtotop{ 	
+		color:royal blue;
+		font-size:25px;
+		padding:10px 15px;
+		text-decoration:none;
+		border:4px  dotted black;
+	}	
+a#backtotop:visted{ 	
+		color:white;
+		font-size:25px;
+		padding:10px 15px;
+		text-decoration:none;
+		border:4px  dotted black;
+	}	
+a#backtotop:hover{ 	
+        color: black;
+		font-size:25px;
+		border:4px  dotted black;
+		
